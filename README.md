@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Homepage.png" width="375px" alt="Homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Bestelpagina
   <img src="readme-images/Order.png" width="375px" alt="Order">
  
 </details>
