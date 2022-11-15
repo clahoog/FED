@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau blauw
+  Blauw
 
   #### Je focus:
-  hier je focus surface plane
+  Surface plane
  
 </details>
 
