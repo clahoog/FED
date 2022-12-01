@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Chelsey Hooghart
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw
+  hier je startniveau blauw
 
   #### Je focus:
-  Surface plane
+  hier je focus surface plane
  
 </details>
 
@@ -36,15 +36,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
   https://www.starbucks.com/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina  
-  <img src="readme-images/Homepage.png" width="375px" alt="Homepage">
+  <img src="readme-images/Homepage.jpg" width="375px" alt="Homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Bestelpagina
-  <img src="readme-images/Order.png" width="375px" alt="Order">
+  hier de naam van de pagina  
+  <img src="readme-images/Order.jpg" width="375px" alt="Order">
  
 </details>
 
@@ -117,20 +118,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Chelsey       | Mauro         | Stein        | Kenneth       |
+  | ---           | ---           | ---          | ---           |
+  | Vragen        | Vragen        | Vragen       | Vragen        |
+  |               |               |              |               |
+  |               | ...           | ...          | ...           |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Marquee mode voor text
+  - Beautify voor code
+  - Now u see me alistapart
+  - Dinsdag beginnen met positioneren
 
 </details>
 
